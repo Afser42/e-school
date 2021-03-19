@@ -70,6 +70,10 @@ body{
 
 /* Styles for books */
 
+.books{
+    margin-top: 80px;
+}
+
 .all-books{
     width: 270px;
     height:270px;
@@ -89,6 +93,34 @@ body{
     box-shadow: 2px 2px 30px grey;
     transform: scale(1.1);
     transition: transform .5s;
+}
+
+
+/* Online Courses */
+
+.course-heading{
+    color:#413960;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.course-icon{
+    width:18px;
+    height:20px;
+}
+
+.card{
+    border-radius: 18px;
+    margin-bottom: 30px;
+    box-shadow: 3px 3px 30px #E5E5E5;
+}
+
+.common-pera{
+    color:#6C6B6B;
+}
+
+#text-bold{
+    font-weight: 700;
 }
 
 
