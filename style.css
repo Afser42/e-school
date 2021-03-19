@@ -11,14 +11,12 @@ body{
     width:198px;
 }
 
-.navbar-nav{
-    margin-left:500px;
-    position: relative;
+.collapse-part{
+    margin-left: auto;
 }
-
-.nav-link{
+.collapse-part a{
     color: black !important;
-    margin-left: 15px;
+    
 }
 
 .button-all{
@@ -35,13 +33,24 @@ body{
     padding-bottom: 40px;
 }
 
+#banner-pera1{
+    color: #FD511A;
+    margin-bottom: 30px;
+
+}
+#banner-pera2{
+    color:#6C6B6B;
+    margin-bottom: 25px;
+    margin-top: 30px;
+}
 .text-color{
     color:#21B573 ;
 }
 
-.banner img{
+.banner-img{
      max-width: 95%;
      max-height: 100%;
      padding-left: 5%;
 }
+
 
